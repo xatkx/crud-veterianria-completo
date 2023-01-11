@@ -132,6 +132,11 @@ html {
   border-radius: 10px;
 }
 
+.edit {
+  background-color: rgb(0, 128, 255) !important;
+  color: white !important;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
